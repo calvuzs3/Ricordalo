@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Ricodarlo</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="image">image</string>
+    <string name="active">Attivo</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="str_edit">Modifica</string>
+    <string name="str_delete">Elimina</string>
+    <string name="str_invisible_item">Invisible item</string>
+    <string name="title_activity_editor">EditorActivity</string>
+    <string name="str_name">Nome</string>
+    <string name="str_desc">Descrizione</string>
+    <string name="str_repeat_every_n_days">Ripeti ogni (giorni)</string>
+    <string name="str_repeat_every_n_hours">Ripeti ogni (ore)</string>
+    <string name="str_active">Attivo</string>
+    <string name="str_startdate">Data inizio</string>
+
+    <string name="title_activity_alarm">Sveglia</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="ricordami">Ricordami</string>
+    <string name="str_no_alerts">Nessun reminder</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="title_activity_tasker">TaskerActivity</string>
+    <string name="str_done">Fatto</string>
+    <string name="str_later">Dopo</string>
+    <string name="action_save">Salva</string>
+</resources>
